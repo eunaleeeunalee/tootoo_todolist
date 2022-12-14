@@ -7,6 +7,6 @@ declare module 'styled-components' {
     textColor: string;
     bgColor: string;
     accentColor: string;
-    button: string;
+    link: string;
   }
 }
